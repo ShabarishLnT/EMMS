@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 node_modules/
 bower_components/
 .sass-cache/
 .tmp/
 .idea/
 *.log
+=======
+node_modules/
+bower_components/
+.sass-cache/
+.tmp/
+.idea/
+*.log
+>>>>>>> 39d21ddd4cbc23812d5c81898b1430bc1d85629f

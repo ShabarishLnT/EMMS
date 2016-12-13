@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "node": true,
   "esnext": true,
@@ -39,3 +40,46 @@
 	"laxbreak":true
   }
 }
+=======
+{
+  "node": true,
+  "esnext": true,
+  "bitwise": true,
+  "camelcase": false, //defined in jssc
+  "es3": false,
+  "curly": true,
+  "eqeqeq": true,
+  "immed": true,
+  "indent": 4,
+  "latedef": "nofunc",
+  "newcap": true,
+  "noarg": true,
+  "quotmark": "single",
+  "regexp": true,
+  "undef": true,
+  "unused": true,
+  "strict": true,
+  "trailing": true,
+  "smarttabs": true,
+  "white": false,
+  "validthis": true,
+  "maxparams": 10,
+  "maxdepth": 5,
+  "maxstatements": 40,
+  "maxcomplexity": 8,
+  "globals": {
+    "angular": false,
+    // Angular Mocks
+    "inject": false,
+    // JASMINE
+    "describe": false,
+    "it": false,
+    "before": false,
+    "beforeEach": false,
+    "after": false,
+    "afterEach": false,
+    "expect": false,
+	"laxbreak":true
+  }
+}
+>>>>>>> 39d21ddd4cbc23812d5c81898b1430bc1d85629f

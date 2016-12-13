@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # http://editorconfig.org
 root = true
 
@@ -11,3 +12,18 @@ insert_final_newline = true
 
 [*.md]
 trim_trailing_whitespace = false
+=======
+# http://editorconfig.org
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.md]
+trim_trailing_whitespace = false
+>>>>>>> 39d21ddd4cbc23812d5c81898b1430bc1d85629f
